@@ -54,3 +54,32 @@
     text-align: center;
     padding: 100px 377px;
 }
+
+/* main section */
+
+.all-categories
+{
+    margin: 120px 450px;
+    text-align: center;
+}
+
+.all-categories-title
+{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.categories-holiday
+{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+}
+
+.categories-all
+{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+}
