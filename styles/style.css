@@ -1,0 +1,56 @@
+.merriweather-normal
+{
+    font-family: "Merriweather", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.inter-normal2 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* shared Style */
+
+.share-title
+{
+    font-size: 32px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.shared-title
+{
+    font-size: 72px;
+    color: #FFFFFF;
+}
+/* banner style */
+
+.banner
+{
+    align-items: center;
+    width: 100%;
+}
+
+.banner-img
+{
+    background-image:linear-gradient(to right, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 50px 140px 0px 250px;
+}
+
+.banner-title
+{
+    height: 246px;
+    width: 632px;
+    text-align: center;
+    padding: 100px 377px;
+}
